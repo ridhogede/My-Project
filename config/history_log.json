@@ -1,0 +1,33 @@
+[
+    {
+        "id_sewa": "36",
+        "tgl_sewa": "2025-01-09",
+        "tgl_kembali": "2025-01-11",
+        "admin_nama": "ridho",
+        "kendaraan_nomor": "AD 1935 ZQ",
+        "kendaraan_merek": "Suzuki Nex",
+        "jenis_kendaraan": "Motor",
+        "penyewa_nama": "Nana Septiana",
+        "penyewa_kontak": "085678901235",
+        "kendaraan_status": "Disewa",
+        "jumlah": "1",
+        "total_harga": "130000",
+        "timestamp": "2025-01-09 16:34:54"
+    },
+    {
+        "id_sewa": "41",
+        "tgl_sewa": "2025-01-09",
+        "tgl_kembali": "2025-01-10",
+        "admin_nama": "ridho",
+        "kendaraan_nomor": "AD 7824 BXT",
+        "kendaraan_merek": "Yamaha Nmax",
+        "id_ken": "24",
+        "jenis_kendaraan": "Motor",
+        "penyewa_nama": "Mia Anggraini",
+        "penyewa_kontak": "084567890124",
+        "kendaraan_status": "Disewa",
+        "jumlah": "1",
+        "total_harga": "120000",
+        "timestamp": "2025-01-10 08:41:37"
+    }
+]
